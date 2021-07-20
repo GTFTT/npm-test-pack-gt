@@ -1,0 +1,20 @@
+{
+  "name": "npm-test-pack-gt",
+  "version": "1.0.0",
+  "description": "Can you miss it? Huh? I think no, you can't! Don't leave, please don't! *crying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTFTT/npm-test-pack-gt.git"
+  },
+  "keywords": [],
+  "author": "GT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GTFTT/npm-test-pack-gt/issues"
+  },
+  "homepage": "https://github.com/GTFTT/npm-test-pack-gt#readme"
+}
